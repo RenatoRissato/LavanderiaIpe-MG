@@ -1,0 +1,13 @@
+# Ferramentas e evidências de desenvolvimento
+.work/
+node_modules/
+serve.cjs
+
+# Materiais de origem preservados no repositório, mas não publicados
+Referencia/
+Assets/*.jpg
+Assets/logo/Logo.png
+
+# Credenciais e metadados locais do Vercel
+.env*
+.vercel/
